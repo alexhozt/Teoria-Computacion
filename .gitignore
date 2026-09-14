@@ -1,0 +1,5 @@
+teoria_computacion/
+.venv/
+venv/
+env/
+ENV/
